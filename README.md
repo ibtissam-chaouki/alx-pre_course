@@ -1,4 +1,3 @@
 My first readme
-
-UPDATED 
+Updated
 
